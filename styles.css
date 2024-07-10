@@ -1,0 +1,38 @@
+
+#outbox {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 30px;
+}
+
+#header {
+    width: 100%;
+    background-color: rgb(221, 173, 13);
+    line-height: 150px;
+}
+#naa {
+    display: flex;
+    width: 100%;
+    background-color: rgb(13, 162, 221);
+    line-height: 100px;
+}
+#nav {
+    width: 35%;
+    background-color: rgb(243, 250, 242);
+    padding-bottom: 200px;
+}
+#article {
+    width: 30%;
+    background-color: rgb(34, 45, 190);
+    padding-bottom: 200px;
+}
+#aside {
+    width: 35%;
+    background-color: rgb(237, 241, 242);
+    padding-bottom: 200px;
+}
+#footer {
+    width: 100%;
+    background-color: rgb(20, 221, 13);
+    padding-bottom: 150px;
+}
